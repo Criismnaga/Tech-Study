@@ -1,3 +1,8 @@
+//Programação Imperativa e Funcional | 2023.1
+//Lista de Exercicíos 2 - Questão 01
+//Aluna: Cristina Matsunaga
+//https://www.beecrowd.com.br/judge/pt/problems/view/1555
+
 #include <stdio.h>
 
 int funcaoRafael(int x,int y);

@@ -1,3 +1,8 @@
+//Programação Imperativa e Funcional | 2023.1
+//Lista de Exercicíos 1 - Questão 01
+//Aluna: Cristina Matsunaga
+//https://www.beecrowd.com.br/judge/pt/homeworks/view/34464
+
 #include <stdio.h>
 #include <math.h>
 
