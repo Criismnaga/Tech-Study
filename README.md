@@ -4,11 +4,11 @@ Bem vindos ao meu repositório de estudos! Aqui vou colocar algumas anotações 
 
 <h2>Espaço de trabalho</h2>
 
-Eu normalmente uso o `Visual Studio Code (VsCode)` como IDE (ambiente de desenvolvimento integrado) padrão para o desenvolvimento dos meus códigos. Com exceção haskell que utilizei por um breve tempo e foi mais prático utilizar o Replit, que é uma IDE online bem competente também! 
+Eu normalmente uso o `Visual Studio Code (VsCode)` como IDE (ambiente de desenvolvimento integrado) padrão para o desenvolvimento dos meus códigos. Com exceção haskell que utilizei por um breve tempo e foi mais prático utilizar o `Replit`, que é uma IDE online bem competente também! 
 
-Para download do VsCode: <a href="https://code.visualstudio.com/">code.visualstudio.com</a>
+Para download do `VsCode`: <a href="https://code.visualstudio.com/">code.visualstudio.com</a>
 
-Para acessar o Replit e criar sua conta: <a href="https://replit.com/">replit.com</a>
+Para acessar o `Replit` e criar sua conta: <a href="https://replit.com/">replit.com</a>
 
 
 <h2>Índice </h2> 
