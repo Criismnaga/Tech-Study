@@ -12,7 +12,7 @@ Para acessar o `Replit` e criar sua conta: <a href="https://replit.com/">replit.
 
 <h2>Questões online</h2>
 
-Caso queira acessar mais questões de diversas linguagem utilizei nos meus estudos o
+Caso queira acessar mais questões de diversas linguagem utilizei nos meus estudos os:
 * <a href="https://www.thehuxley.com/">`The Huxley`</a>;
 * <a href="https://www.beecrowd.com.br/judge/pt/login">`Beecrowd`</a>.
 
